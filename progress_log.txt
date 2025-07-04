@@ -1,0 +1,20 @@
+📅 2025-07-04
+
+✅ Created GitHub repo and connected local folder
+✅ Fixed Git push issue (rejected -> resolved with pull)
+✅ Set up clean folder structure: datasets/, projects/, notes/
+✅ Created and tested placeholder files to make folders visible
+✅ Wrote initial README.md
+
+❌ sales_analysis.ipynb broke on GitHub (invalid JSON)
+🔧 Recreated notebook, added data load + basic plot
+
+🧠 Learned:
+- Git ignores empty folders unless there's a file
+- GitHub can reject push if local/remote are out of sync
+- Matplotlib bar plot with Pandas works great for category counts
+
+🔜 Next:
+- Push working notebook
+- Write LinkedIn post
+- Cold DM 2 startup leads
